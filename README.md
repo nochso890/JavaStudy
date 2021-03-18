@@ -7,8 +7,8 @@ Java 를 다시 복습하고 정리하는 의미로 작성하고 있는 프로�
 
 #목차.
 1. [Java 시작](https://github.com/nochso890/JavaStudy/blob/master/docs/java_start.md)
-2. [Java 기초]
-3. [Java OOP]
-4. [Exception 처리]
-5. [Java Collection]
+2. [Java 기초](https://github.com/nochso890/JavaStudy/blob/master/docs/java_foundation.md)
+3. [Java OOP](https://github.com/nochso890/JavaStudy/blob/master/docs/java_oop.md)
+4. [Exception 처리](https://github.com/nochso890/JavaStudy/blob/master/docs/java_exception.md)
+5. [Java Collection](https://github.com/nochso890/JavaStudy/blob/master/docs/java_collection.md)
 6. []
