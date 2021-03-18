@@ -6,7 +6,7 @@ Java 를 다시 복습하고 정리하는 의미로 작성하고 있는 프로�
 #실행방법.
 
 #목차.
-1. [Java 시작](https://github.com/nochso890/JavaStudy/docs/java_start.md)
+1. [Java 시작](https://github.com/nochso890/JavaStudy/blob/master/docs/java_start.md)
 2. [Java 기초]
 3. [Java OOP]
 4. [Exception 처리]
